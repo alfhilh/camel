@@ -6,7 +6,7 @@ Pada challenge ini peserta harus merubah penulisan camel case ke dalam bentuk ka
 terpisah. Adapun ketentuannya sebagai berikut :
 
 Contoh format input
-```go
+```bash
 iniAdalahPenulisanCamelCase```
 
 ## Output yang diharapkan
