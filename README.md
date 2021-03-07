@@ -9,13 +9,13 @@ Contoh format input
 ```go
 iniAdalahPenulisanCamelCase```
 
-##Output yang diharapkan
+## Output yang diharapkan
 Kata sebelum dipisah : iniAdalahPenulisanCamelCase
 Jumlah kata : 5
 Kata yang tersedia : ini, adalah, penulisan, camel, case
 
 
-#Validasi Input
+# Validasi Input
 1. Input yang diberikan harus berupa penulisan camel case.
 2. Input hanya boleh berupa huruf, tidak boleh ada simbol atau angka.
 
