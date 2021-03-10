@@ -1,8 +1,4 @@
 # Memisahkan Kata Dari Penulisan Camel Case
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-Pada challenge ini peserta harus merubah penulisan camel case ke dalam bentuk kata yang
-terpisah. Adapun ketentuannya sebagai berikut :
 
 ## Contoh format input
 ```
